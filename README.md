@@ -185,3 +185,6 @@ This repository serves as the official landing page for SSTV Tools. The software
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of SSTV Tools today!**
+
+---
+**Last updated:** 2026-11-08 21:25:33 UTC
